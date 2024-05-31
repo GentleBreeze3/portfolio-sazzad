@@ -172,8 +172,8 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
+      - job: "Software Developer"
+        company: "Cowell"
         companyUrl: "https://example.com"
         date: "Jan 2022 - present"
         featuredLink:
